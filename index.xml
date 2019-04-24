@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steve Xu&#39;S Blog</title>
+    <link>https://nusr.github.io/</link>
+    <description>Recent content on Steve Xu&#39;S Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 24 Apr 2019 22:58:44 +0800</lastBuildDate>
+    
+	<atom:link href="https://nusr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Node.js 种子下载器</title>
+      <link>https://nusr.github.io/post/2018/2018-10-11-18-43-00/</link>
+      <pubDate>Wed, 24 Apr 2019 22:58:44 +0800</pubDate>
+      
+      <guid>https://nusr.github.io/post/2018/2018-10-11-18-43-00/</guid>
+      <description>&lt;p&gt;庆祝 2018 国庆，制作了一个 &lt;code&gt;Node.js&lt;/code&gt; 的种子下载器。爬取页面，根据页面的链接，破解另外一个网站，下载种子文件。项目比较简单，爬取页面没有使用任何爬虫框架。&lt;a href=&#34;https://github.com/nusr/FBIWarning&#34;&gt;项目源码&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>我为什么推荐你使用kindle</title>
+      <link>https://nusr.github.io/post/2019/2019-01-31-14-50-00/</link>
+      <pubDate>Wed, 24 Apr 2019 22:50:21 +0800</pubDate>
+      
+      <guid>https://nusr.github.io/post/2019/2019-01-31-14-50-00/</guid>
+      <description>&lt;p&gt;kindle 分 kindle 电子阅读器，pc 版，app 版，下文主要介绍 Amazon 设计和销售的电子书阅读器。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.cn/b?node=1935454071&#34;&gt;亚马逊官方出的 kindle 使用技巧&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;使用-kindle-有哪些优点&#34;&gt;使用 kindle 有哪些优点&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;搬家不用搬纸书&lt;/li&gt;
+&lt;li&gt;随时可以切换书本看&lt;/li&gt;
+&lt;li&gt;待机时间长，一般一个月充一次电&lt;/li&gt;
+&lt;li&gt;泡面盖&lt;/li&gt;
+&lt;li&gt;只能用来阅读，其他电子设备，如手机，IPAD 会打扰阅读&lt;/li&gt;
+&lt;li&gt;看英文书易于查单词&lt;/li&gt;
+&lt;li&gt;笔记易电子化&lt;/li&gt;
+&lt;li&gt;墨水屏，能带来纸书的阅读体验&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>Node.js 多版本安装</title>
+      <link>https://nusr.github.io/post/2018/2018-10-01-10-53-00/</link>
+      <pubDate>Wed, 24 Apr 2019 22:37:44 +0800</pubDate>
+      
+      <guid>https://nusr.github.io/post/2018/2018-10-01-10-53-00/</guid>
+      <description>Node.js® is a JavaScript runtime built on Chrome&amp;rsquo;s V8 JavaScript engine（Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行环境）。 Node.js 跨平台，支持 Windows、 Linux、M</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://nusr.github.io/about/</link>
+      <pubDate>Wed, 24 Apr 2019 22:25:24 +0800</pubDate>
+      
+      <guid>https://nusr.github.io/about/</guid>
+      <description>喜欢阅读和日漫。</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://nusr.github.io/contact/</link>
+      <pubDate>Wed, 24 Apr 2019 22:25:24 +0800</pubDate>
+      
+      <guid>https://nusr.github.io/contact/</guid>
+      <description>E-Mail 发送</description>
+    </item>
+    
+  </channel>
+</rss>
